@@ -1,0 +1,6 @@
+.expo-shared/
+.expo/
+.watchmanconfig
+babel.config.js
+node_modules/
+web-build
